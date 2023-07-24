@@ -1,6 +1,6 @@
 ## _Vidhya Portfolio_
 
-[Srividhya](https://github.com/vidhyapasupathy/vidhyapasupathy.github.io/blob/main/image/vidhya.jpeg)
+![Srividhya](https://github.com/vidhyapasupathy/vidhyapasupathy.github.io/blob/main/image/vidhya.jpeg)
 
 Contact me https://www.linkedin.com/in/vidhya-pasupathy-00a76722/
 
