@@ -1,9 +1,9 @@
 
 
 
-![Srividhya](https://github.com/vidhyapasupathy/vidhyapasupathy.github.io/blob/main/image/vidhya.jpeg)
+![Srividhya](/image/vidhya.jpeg)
 
-Contact me https://www.linkedin.com/in/vidhya-pasupathy-00a76722/
+[Contact me](https://www.linkedin.com/in/vidhya-pasupathy-00a76722/)
 
 # Professional Summary 
 Having 15 years of experience in software testing experience. Experience in the areas of Mobile Application Testing, Web Testing requirement analysis, Client coordination, Implementation experience in Manual Testing, Retesting, Regression Testing, and various types of testing.
@@ -14,8 +14,7 @@ Parse the response JSON and validated the DATA using JAVA.
 Ability to work independently in a fast-paced environment with tight deadlines and changing priorities
 Working on mobile automation frameworks like Appium and Cypress.
 
-# Work Experience
-(https://github.com/vidhyapasupathy/vidhyapasupathy.github.io/edit/main/reference/Work%20Experience.txt)
+[Work Experience](reference/Work%20Experience.md)
 
 # Certifications
 Scrum Alliance JUNE 2017
