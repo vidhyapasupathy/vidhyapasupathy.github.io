@@ -22,5 +22,5 @@ Certified Scrum Master ID: 000553269
 
 # Open source contribution 
 ###### Microsoft - Adaptive cards
-[https://learn.microsoft.com/en-us/adaptive-cards/] Involved in analyzing requirements specification, Creating a Test design, developing a Test plan, Test cases, and planning for QA Methodologies.
+(https://learn.microsoft.com/en-us/adaptive-cards/) Involved in analyzing requirements specification, Creating a Test design, developing a Test plan, Test cases, and planning for QA Methodologies.
 
