@@ -17,7 +17,7 @@ Working on mobile automation frameworks like Appium and Cypress.
 [Work Experience](reference/Work%20Experience.html)
 
 # Certifications
-Scrum Alliance JUNE 2017
+[Scrum Alliance](https://www.scrumalliance.org/) JUNE 2017
 Certified Scrum Master ID: 000553269
 
 # Open source contribution 
