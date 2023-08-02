@@ -18,7 +18,9 @@ Working on mobile automation frameworks like Appium and Cypress.
 
 # Certifications
 [Scrum Alliance](https://www.scrumalliance.org/) JUNE 2017
-Certified Scrum Master ID: 000553269
+Certified Scrum Master ID: 000553269 <br>
+[Smart Bear](https://smartbear.com/) JULY 2023 
+Ready API Test Introductory Training Certificate ID : 173883935
 
 # Open source contribution 
 ###### Microsoft - [Adaptive cards](https://learn.microsoft.com/en-us/adaptive-cards/) 
