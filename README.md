@@ -22,6 +22,10 @@ Certified Scrum Master ID: 000553269 <br>
 [Smart Bear](https://smartbear.com/) JULY 2023 
 Ready API Test Introductory Training Certificate ID : 173883935 <br>
 [Udemy](https://www.udemy.com/course/xpath-and-css-selectors/) AUG 2023 <br>
+[BlazeMeter](https://www.blazemeter.com/)AUG 2023 <br>
+[Certificate_Blazemeter.pdf](https://github.com/vidhyapasupathy/vidhyapasupathy.github.io/files/12454942/Certificate_Blazemeter.pdf)
+
+
 
 
 # Open source contribution 
