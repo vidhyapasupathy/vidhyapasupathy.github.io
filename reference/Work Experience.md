@@ -1,5 +1,5 @@
 ## Work experience 
-
+- Lead Consultant [Capgemini Australia](https://www.capgemini.com/){:target="_blank"} (07/2024 -09/2024)
 - Quality Engineer [DevOps1](https://www.devops1.com.au/){:target="_blank"} (05/2023 - 12/2023)
 - Test Automation Associate Manager [Accenture](https://www.accenture.com/){:target="_blank"} (07/2015 - 04/2023)
 - Senior Software Test Engineer(Quality/Test)[Newt Global](https://newtglobal.com/){:target="_blank"} (10/2013 - 06/2015)
